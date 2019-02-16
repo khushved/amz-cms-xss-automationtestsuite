@@ -22,5 +22,14 @@ public class Testsuite {
          Assert.assertEquals("Nike",actual);
 
     }
+    //@FindBy (css ="button")
+    //private List<WebElements> buttons_on_page
+    public void click_button(String name_of_button)
+    {
+        //if (buttons_on_page.size()>=1)
+        {
+           
+        }
+    }
 
 }
